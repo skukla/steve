@@ -1,7 +1,7 @@
 {
-  "name": "kukla-vm-cli",
-  "version": "1.0.1",
+  "name": "steve",
+  "version": "1.0.3",
   "bin": {
-    "cli": "index.js"
+    "steve": "index.js"
   }
 }
