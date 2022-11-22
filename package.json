@@ -2,6 +2,6 @@
   "name": "kukla-vm-cli",
   "version": "1.0.0",
   "bin": {
-    "cli": "index.js"
+    "kukla-vm-cli": "index.js"
   }
 }
